@@ -1,0 +1,10 @@
+array
+const user = {
+    name:"abc",
+    per:67,
+}
+
+
+science[]
+comm[]
+waiting[]
