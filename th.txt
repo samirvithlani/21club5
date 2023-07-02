@@ -1,0 +1,13 @@
+API --> call
+ajax fetch function
+
+API --> application programming interface
+
+url expose --> data ,
+
+fetch  GET
+delete DELETE
+update put
+create POST
+
+
